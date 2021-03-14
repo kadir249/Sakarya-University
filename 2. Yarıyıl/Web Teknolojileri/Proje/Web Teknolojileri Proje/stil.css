@@ -1,0 +1,108 @@
+.yazihiza
+{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.yazibicimi
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.gorseller
+{
+	max-width: 100%;
+	height: auto;
+	border-radius:5%; 
+}
+
+.div1
+{
+	width: 100%;
+	padding: 0 10% 0 10%;
+	margin: 0 auto 0 auto;
+}
+
+.logo
+{
+	max-width: 100%;
+	height: auto;
+	border-radius: 2%; 
+	border-style: groove;
+	border-width: 10px;
+	border-color: black;
+}
+
+.tablo1 
+{
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;  
+	margin: auto auto auto auto;
+	border-width: 5px;
+}
+
+.tablo1 tr:hover 
+{
+	color: black;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.tablo2
+{
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;  
+}
+
+#menu
+{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#hakkimda
+{
+	border-right: thin double;
+}
+#sehrim
+{
+	border-right: thin double;
+}
+#takimimiz
+{
+	border-right: thin double;
+}
+#ozgecmis
+{
+	border-right: thin double;
+}
+
+#menu ul li a:hover
+{
+	color: white; 
+	background-color: #639fc2;
+}
+
+#slider 
+{ 
+	position: relative;
+	margin: 0 auto 0 auto;
+	width: 600px;
+	height: 300px;
+	overflow: hidden;
+}
+ 
+#kontrol 
+{
+	position: absolute;
+	right: 0;
+	bottom: 5px; 
+}
+ 
+#kontrol a 
+{
+	color: white;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 10px;
+}

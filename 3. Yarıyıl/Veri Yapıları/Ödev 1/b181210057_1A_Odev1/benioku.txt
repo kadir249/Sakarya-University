@@ -1,0 +1,2 @@
+Switch-case kısmında "system("cls")" bölümü ödevi rahat kontrol etmeniz için açıklama satırı 
+olarak bulunmaktadır.

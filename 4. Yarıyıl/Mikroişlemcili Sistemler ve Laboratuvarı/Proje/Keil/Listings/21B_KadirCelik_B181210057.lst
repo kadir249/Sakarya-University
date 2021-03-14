@@ -1,0 +1,89 @@
+A51 MACRO ASSEMBLER  21B_KADIRCELIK_B181210057                                            05/03/2020 14:48:42 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\21B_KadirCelik_B181210057.obj
+ASSEMBLER INVOKED BY: D:\Keil\C51\BIN\A51.EXE 21B_KadirCelik_B181210057.asm SET(SMALL) DEBUG PRINT(.\Listings\21B_KadirC
+                      elik_B181210057.lst) OBJECT(.\Objects\21B_KadirCelik_B181210057.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1                     ORG 00H
+0000 802E              2                     SJMP BASLA
+0030                   3                     ORG 30H
+                       4                             
+0030 7590FF            5     BASLA:  MOV P1,#0FFH
+0033 2090FA            6                     JB P1.0,BASLA
+                       7                             
+0036 75B010            8     BAS:    MOV P3,#10H
+0039 7475              9                     MOV A,#75H
+003B F5A0             10                     MOV P2,A
+003D 1183             11                     ACALL DELAY
+                      12                     
+003F 75B080           13                     MOV P3,#80H
+0042 7458             14                     MOV A,#58H
+0044 F5A0             15                     MOV P2,A
+0046 1183             16                     ACALL DELAY
+                      17                                     
+0048 75B040           18                     MOV P3,#40H
+004B 7406             19                     MOV A,#06H
+004D F5A0             20                     MOV P2,A
+004F 1183             21                     ACALL DELAY     
+                      22                                             
+0051 75B020           23                     MOV P3,#20H
+0054 747C             24                     MOV A,#7CH
+0056 F5A0             25                     MOV P2,A
+0058 1183             26                     ACALL DELAY
+005A D590D9           27                     DJNZ P1,BAS     
+                      28     
+005D 75A000           29                     MOV P2,#00H
+0060 116C             30                     ACALL TIMER
+0062 80CC             31                     SJMP BASLA
+                      32     
+0064 3090FD           33     BIRAK:  JNB P1.0, BIRAK
+0067 75A000           34                     MOV P2,#00H
+006A 80CA             35                     SJMP BAS
+                      36     
+006C 7F64             37     TIMER:  MOV R7,#0100D
+006E 758901           38                     MOV TMOD,#01H
+0071 758CDB           39     L2:             MOV TH0,#0DBH
+0074 758AFF           40                     MOV TL0,#0FFH
+0077 D28C             41                     SETB TCON.4
+0079 308DFD           42     L3:             JNB TCON.5,L3
+007C C28C             43                     CLR TCON.4
+007E C28D             44                     CLR TCON.5
+0080 DFEF             45                     DJNZ R7,L2
+0082 22               46                     RET
+                      47                     
+0083 78C8             48     DELAY:  MOV R0, #200
+0085 D8FE             49                     DJNZ R0, $
+0087 22               50                     RET
+                      51                     END
+A51 MACRO ASSEMBLER  21B_KADIRCELIK_B181210057                                            05/03/2020 14:48:42 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+BAS. . . . . . . .  C ADDR   0036H   A   
+BASLA. . . . . . .  C ADDR   0030H   A   
+BIRAK. . . . . . .  C ADDR   0064H   A   
+DELAY. . . . . . .  C ADDR   0083H   A   
+L2 . . . . . . . .  C ADDR   0071H   A   
+L3 . . . . . . . .  C ADDR   0079H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+P3 . . . . . . . .  D ADDR   00B0H   A   
+TCON . . . . . . .  D ADDR   0088H   A   
+TH0. . . . . . . .  D ADDR   008CH   A   
+TIMER. . . . . . .  C ADDR   006CH   A   
+TL0. . . . . . . .  D ADDR   008AH   A   
+TMOD . . . . . . .  D ADDR   0089H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

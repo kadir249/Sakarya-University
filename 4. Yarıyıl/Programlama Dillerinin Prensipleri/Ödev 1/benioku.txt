@@ -1,0 +1,2 @@
+icerik.txt dosyası ve raporun bir kopyası "b181210057_1A_Odev1" adlı klasörün içerisindeki 
+"doc" klasöründe bulunmaktadır.

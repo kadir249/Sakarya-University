@@ -1,0 +1,8 @@
+71810493304 Mustafa Demir 38 8 E H 2 2500 150 180 12 40 4500 Fotograflar\Mustafa.jpg
+21818494358 Ahmet Tosun 49 10 E E 3 8750 275 300 8 80 32000 Fotograflar\Ahmet.jpg
+96547513512 Zeynep Yayla 32 9 E H 1 4300 200 220 12 45 15000 Fotograflar\Zeynep.jpg
+54789632104 Arzu Kisa 24 8 B H 0 4750 200 250 10 70 21000 Fotograflar\Arzu.jpg
+32540026586 Burak Kirat 27 10 B H 0 2250 100 130 12 30 3500 Fotograflar\Burak.jpg
+16105897814 Fatih Keser 35 8 B H 2 2500 100 120 8 50 6000 Fotograflar\Fatih.jpg
+14105897810 Fatma Bayrak 25 5 E E 1 2000 100 120 10 50 4000 Fotograflar\Fatma.jpg
+

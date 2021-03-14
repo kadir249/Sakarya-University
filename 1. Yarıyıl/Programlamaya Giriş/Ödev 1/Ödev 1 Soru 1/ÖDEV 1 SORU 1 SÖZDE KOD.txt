@@ -1,0 +1,107 @@
+1) Baþla
+2) yildiz = 1
+3) Eðer yildiz <= 5 ise 
+4) yildiz++
+5) cout << “*”
+6) Dön 3
+7) cout << “ ” 
+8) Eðer yildiz <= 5 ise 
+9) yildiz++
+11) cout << “*”
+12) Dön 8 
+13) cout << endl
+14) Eðer yildiz <= 4 ise 
+15) yildiz++
+16) cout << “*”
+17) Dön 14
+18) cout << “   ”
+19) Eðer yildiz <= 4 ise 
+20) yildiz++
+21) cout << “*”
+22) Dön 19
+23) cout << endl
+24) Eðer yildiz <= 3 
+25) yildiz++
+26) cout << “*”
+27) Dön 24
+28) cout << “     ” 
+29) Eðer yildiz <= 3 ise 
+30) yildiz++
+31) cout << “*”
+32) Dön 29
+33) cout << endl
+34) Eðer yildiz <= 2 ise 
+35) yildiz ++
+36) cout << “*”
+37) Dön 34
+38) cout << “       ” 
+39) Eðer yildiz <= 2 ise 
+40) yildiz++
+41) cout << “*”
+42) Dön 39
+43) cout << endl
+44) Eðer yildiz <= 1 ise 
+45) yildiz++
+46) cout << “*”
+47) Dön 44
+48) cout << “         ” 
+49) Eðer yildiz <= 1 ise 
+50) yildiz++
+51) cout << “*”
+52) Dön 49
+53) cout << endl << endl
+54) Eðer yildiz <= 1 ise 
+55) yildiz++
+56) cout << “*”
+57) Dön 54
+58) cout << “         ” 
+59) Eðer yildiz <= 1 ise 
+60) yildiz++
+61) cout << “*”
+62) Dön 59
+63) cout << endl
+64) Eðer yildiz <= 2 ise 
+65) yildiz ++
+66) cout << “*”
+67) Dön 64
+68) cout << “       ” 
+69) Eðer yildiz <= 2 ise 
+70) yildiz++
+71) cout << “*”
+72) Dön 69
+73) cout << endl
+74) Eðer yildiz <= 3 
+75) yildiz++
+76) cout << “*”
+77) Dön 74
+78) cout << “     ” 
+79) Eðer yildiz <= 3 ise 
+80) yildiz++
+81) cout << “*”
+82) Dön 79
+83) cout << endl
+84) Eðer yildiz <= 4 ise 
+85) yildiz++
+86) cout << “*”
+87) Dön 84
+88) cout << “   ”
+89) Eðer yildiz <= 4 ise 
+90) yildiz++
+91) cout << “*”
+92) Dön 89
+93) cout << endl
+94) Eðer yildiz <= 5 ise 
+95) yildiz++
+96) cout << “*”
+97) Dön 94
+98) cout << “ ” 
+99) Eðer yildiz <= 5 ise 
+100) yildiz++
+101) cout << “*” 
+102) Dön 99
+103) cout << endl
+104) Dur
+
+
+
+

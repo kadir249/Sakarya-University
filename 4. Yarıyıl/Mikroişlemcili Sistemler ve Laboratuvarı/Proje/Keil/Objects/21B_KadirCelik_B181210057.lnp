@@ -1,0 +1,3 @@
+".\Objects\21B_KadirCelik_B181210057.obj" 
+TO ".\Objects\21B_KadirCelik_B181210057" 
+PRINT(".\Listings\21B_KadirCelik_B181210057.m51") RAMSIZE(256) 

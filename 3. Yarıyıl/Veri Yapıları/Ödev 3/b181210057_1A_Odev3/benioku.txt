@@ -1,0 +1,1 @@
+"benim.txt" ve "rakip.txt" dosyaları doc kısmında bulunmaktadır.

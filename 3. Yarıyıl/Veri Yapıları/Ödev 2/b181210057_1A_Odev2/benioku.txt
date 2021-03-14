@@ -1,0 +1,2 @@
+Hocam "Odev.txt" dosyasının içinde ödev pdf'inde attığınız veriler bulunmaktadır.
+Odev.txt dosyası bin klasörünün içinde bulunmaktadır.

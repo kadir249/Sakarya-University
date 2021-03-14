@@ -1,0 +1,11 @@
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\bin\Release\b181210051_Proje.exe.config
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\bin\Release\b181210051_Proje.exe
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\bin\Release\b181210051_Proje.pdb
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.Form1.resources
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.Form2.resources
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.Properties.Resources.resources
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.csproj.GenerateResource.cache
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.csproj.CoreCompileInputs.cache
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.exe
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.pdb
+C:\Users\DUHAN\source\repos\b181210051_Proje\b181210051_Proje\obj\Release\b181210051_Proje.csprojAssemblyReference.cache

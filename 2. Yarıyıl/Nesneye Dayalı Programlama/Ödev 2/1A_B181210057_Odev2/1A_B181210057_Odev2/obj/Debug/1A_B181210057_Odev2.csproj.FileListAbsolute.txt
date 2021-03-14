@@ -1,0 +1,7 @@
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\bin\Debug\1A_B181210057_Odev2.exe.config
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\bin\Debug\1A_B181210057_Odev2.exe
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\bin\Debug\1A_B181210057_Odev2.pdb
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\obj\Debug\1A_B181210057_Odev2.csprojAssemblyReference.cache
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\obj\Debug\1A_B181210057_Odev2.csproj.CoreCompileInputs.cache
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\obj\Debug\1A_B181210057_Odev2.exe
+D:\Programlamaya Giriş\1A_B181210057_Odev2\1A_B181210057_Odev2\obj\Debug\1A_B181210057_Odev2.pdb

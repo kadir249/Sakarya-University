@@ -1,0 +1,10 @@
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\bin\Debug\1A_B181210057_Proje.exe.config
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\bin\Debug\1A_B181210057_Proje.exe
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\bin\Debug\1A_B181210057_Proje.pdb
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\1A_B181210057_Proje.csprojAssemblyReference.cache
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\_1A_B181210057_Proje.Form1.resources
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\_1A_B181210057_Proje.Properties.Resources.resources
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\1A_B181210057_Proje.csproj.GenerateResource.cache
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\1A_B181210057_Proje.csproj.CoreCompileInputs.cache
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\1A_B181210057_Proje.exe
+D:\Programlamaya Giriş\1A_B181210057_Proje\1A_B181210057_Proje\obj\Debug\1A_B181210057_Proje.pdb
